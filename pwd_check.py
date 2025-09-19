@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 print("===== SIGN UP =====\n")
 username = input('Enter username: ')
 pwd = input('Enter password: ')

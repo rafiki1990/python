@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 print("=======Check a number's sign=======")
 num=int(input("Enter a number to check if it is positive, negative or zero: "))
 
